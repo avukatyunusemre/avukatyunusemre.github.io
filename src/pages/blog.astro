@@ -8,14 +8,14 @@ import PortfolioPreview from '../components/PortfolioPreview.astro';
 import Hero from '../components/Hero.astro';
 import Grid from '../components/Grid.astro';
 
-const projects = (await getCollection('work')).sort(
+const projects = (await getCollection('blog')).sort(
 	(a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
 );
 ---
 
 <BaseLayout
-	title="My Work | Jeanine White"
-	description="Learn about Jeanine White's most recent projects"
+	title="Blog | Avukat Yunus Emre Yaşar"
+	description="Blog | Avukat Yunus Emre Yaşar"
 >
 	<div class="stack gap-20">
 		<main class="wrapper stack gap-8">

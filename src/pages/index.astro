@@ -9,7 +9,6 @@ import CallToAction from '../components/CallToAction.astro';
 import Grid from '../components/Grid.astro';
 import Hero from '../components/Hero.astro';
 import Icon from '../components/Icon.astro';
-import Pill from '../components/Pill.astro';
 import PortfolioPreview from '../components/PortfolioPreview.astro';
 
 // Page section components
@@ -17,7 +16,7 @@ import ContactCTA from '../components/ContactCTA.astro';
 import Skills from '../components/Skills.astro';
 
 // Content Fetching: List four most recent work projects
-const projects = (await getCollection('work'))
+const projects = (await getCollection('blog'))
 	.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
 	.slice(0, 4);
 
@@ -32,17 +31,17 @@ const projects = (await getCollection('work'))
 				<Hero
 					title="Avukat Yunus Emre Yaşar"
 					tagline="Avukat Yunus Emre Yaşar, hukuki danışmanlık hizmetinin yanı sıra Ceza Hukuku, Tazminat Hukuku, Vergi ve İdare Hukuku, Gayrimenkul Hukuku, Medeni Hukuk gibi birçok hukuk alanında faaliyet göstermektedir."
-					align="start"
+					align="center"
 				>
-					<div class="roles">
-						<Pill><Icon icon="code" size="1.33em" /> Ceza Hukuku</Pill>
-						<Pill><Icon icon="microphone-stage" size="1.33em" /> Kira Hukuku</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" /> Taşınmaz Hukuku</Pill>
-					</div>
+					<!-- <div class="roles">
+						<Pill><Icon icon="gavel" size="1.33em" /> Ceza Hukuku</Pill>
+						<Pill><Icon icon="scales" size="1.33em" /> Kira Hukuku</Pill>
+						<Pill><Icon icon="house-line" size="1.33em" /> Taşınmaz Hukuku</Pill>
+					</div> -->
 				</Hero>
 
 				<img
-					alt="Jeanine White smiling in a red plaid shirt and tortoise shell glasses"
+					alt="Avukat Yunus Emre Yaşar's portrait"
 					width="480"
 					height="620"
 					src="/assets/portrait.jpg"
@@ -72,7 +71,7 @@ const projects = (await getCollection('work'))
 				</div>
 
 				<div class="cta">
-					<CallToAction href="/work/">
+					<CallToAction href="/blog/">
 						HEPSİNİ GÖSTER
 						<Icon icon="arrow-right" size="1.2em" />
 					</CallToAction>
