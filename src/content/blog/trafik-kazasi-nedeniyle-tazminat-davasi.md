@@ -1,8 +1,8 @@
 ---
 title: Trafik Kazası Nedeniyle Tazminat Davası
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img: /assets/trafik-kaza.jpg
+img_alt: a
 description: |
   En az bir motorlu aracın katıldığı bir kazada ölüm, yaralanma gibi bedensel zararlar ile üçüncü kişilere ait ev, araba, arazi gibi malvarlıklarında meydana gelen zararlarının giderilmesi amacıyla zarara uğrayan kişiler tarafından trafik kazasında sorumluluğu bulunanlara karşı açılan bir tazminat davası türüdür. Trafik kazası tazminatı, uygulamada hem bedensel hem de malvarlığı zararlarını ifade etmek üzere kullanılmaktadır.
 tags:
@@ -13,7 +13,7 @@ tags:
 
 Trafik kazası nedeniyle tazminat davasının hukuki dayanağı, trafik kazasının bir haksız fiil (BK md.49) sorumluluğu doğurmasıdır. Trafik kazasının hukuki nitelik açısından haksız fiil olmasının; zamanaşımı, mahkemenin yetkisi, tazminatın miktarı gibi pek çok konuda bazı neticeleri vardır. Bu nedenle kaza sonrasında bu alanda uzman avukatlardan yardım almak dava sürecinde önemlidir.
 
--- Trafik Kazası Maddi ve Manevi Tazminat Davasında Zamanaşımı Süresi--
+##### Trafik Kazası Maddi ve Manevi Tazminat Davasında Zamanaşımı Süresi
 
 Trafik kazasının meydana geldiği, yani haksız fiilin işlendiği gün, tazminat davası zamanaşımı süresi işlemeye başlar. Trafik kazalarında da tüm haksız fiillere uygulanan iki zamanaşımı süresinden hangisi davacının lehine ise, o zamanaşımı süresi uygulanır. Trafik kazaları nedeniyle tazminat davası zamanaşımı süreleri şunlardır:
 
@@ -21,7 +21,7 @@ Trafik kazasının meydana geldiği, yani haksız fiilin işlendiği gün, tazmi
 
 •	Ceza Zamanaşımı Süresi: Trafik kazası nedeniyle bir suç işlenmişse ceza zamanaşımı süreleri de uygulanır (KTK 109/2). Trafik kazalarında yaralanma varsa taksirle adam yaralama suçu; ölüm varsa taksirle adam öldürme suçu meydana gelir. Trafik kazası neticesinde ölüm veya yaralama varsa, ceza kanununda o suç için öngörülen dava zamanaşımı süresi ne ise, maddi ve manevi tazminat davası açma süresi de odur. Ceza kanunundaki temel dava zamanaşımı süresi geçse bile, ceza davası devam ediyorsa, yani ceza hukukundaki “uzamış dava zamanaşımı” devreye girmişse, ceza davası devam ettiği müddetçe herhangi bir zamanaşımı süresine bağlı olmadan trafik kazası nedeniyle tazminat davası açılabilir.
 
--- Trafik Kazası Nedeniyle Tazminat Davasının Davacısı --
+##### Trafik Kazası Nedeniyle Tazminat Davasının Davacısı
 
 Trafik kazasında yaralanma meydana gelmişse, yaralanan şahsın bizzat kendisi maddi ve manevi tazminat davası açabilir. Yaralanan kişi maluliyet nedeniyle çalışma hayatı boyunca uğrayacağı işgücü kaybı nedeniyle maddi tazminat; trafik kazası nedeniyle uğradığı elem, keder ve üzüntü nedeniyle de manevi tazminat talep edebilir.
 
@@ -29,7 +29,7 @@ Trafik kazası nedeniyle ağır bedensel bir yaralanma vuku bulmuşsa, yaralanan
 
 Ölümlü trafik kazalarında ise, ölenden yaşarken destek alan herkes maddi ve manevi tazminat davası açabilir. Ölen evliyse eşi ve çocuklarına, bekâr ise anne ve babasına destek verdiği karine olarak kabul edilir. Yani, bu kişilerin ölenin desteğinden yararlandıklarını ispat etmelerine gerek yoktur. Ölenin nişanlısı, amcası, dayısı vb. gibi herhangi bir yakınının trafik kazası nedeniyle tazminat (destekten yoksun kalma tazminatı) talep edebilmesi için ölen kişiden yaşarken destek aldığını ispatlaması gerekir.
 
--- Trafik Kazası Nedeniyle Tazminat Davası Kime Karşı Açılır?--
+ #####  Trafik Kazası Nedeniyle Tazminat Davası Kime Karşı Açılır?
 
 Trafik kazası hukuki niteliği itibariyle haksız fiil olarak kabul edildiğinden, maddi ve manevi tazminat davası haksız fiil sorumlularına karşı açılır. Ancak, trafik kazalarında haksız fiili bizzat işleyenler dışında da tazminat sorumluları vardır. Trafik kazası neticesinde ölüm, yaralama veya herhangi bir malvarlığı zararı meydana gelmesi halinde aşağıdaki kişilere maddi ve manevi tazminat davası açılabilir:
 
@@ -41,7 +41,7 @@ Trafik kazası hukuki niteliği itibariyle haksız fiil olarak kabul edildiğind
 
 •	Sigorta Şirketi: Trafik kazasına karışan aracın Zorunlu Mali Sorumluluk Sigortası (Trafik Sigortası) veya poliçe kapsamına göre İhtiyari Mali Mesuliyet Sigortası (Kasko Sigortası) hangi sigorta şirketi tarafından yapılmışsa, o sigorta şirketi de ölüm, yaralama veya diğer zararlardan sorumludur (KTK md.91). Karayolları Zorunlu Mali Sorumluluk Sigortası Genel Şartlarının A-1.maddesine göre, sigortacı bu poliçede tanımlanan motorlu aracın işletilmesi sırasında bir kimsenin ölümüne veya yaralanmasına veya bir şeyin zarara uğramasına sebebiyet vermesinden dolayı 2918 Sayılı Karayolları Trafik Kanunu’na göre işletene düşen hukuki sorumluluğu, zorunlu sigorta limitlerine kadar temin eder.
 
--- Trafik Kazası Nedeniyle Açılan Tazminat Davasında Yetkili ve Görevli Mahkeme --
+ #####  Trafik Kazası Nedeniyle Açılan Tazminat Davasında Yetkili ve Görevli Mahkeme 
 
 Ölümlü veya yaralamalı trafik kazası nedeniyle açılacak maddi ve manevi tazminat davasında birden fazla yetkili mahkeme vardır. Trafik kazası nedeniyle tazminat davasına bakmaya yetkili mahkemeler şunlardır:
 
@@ -56,7 +56,7 @@ Trafik kazası hukuki niteliği itibariyle haksız fiil olarak kabul edildiğind
 
 Trafik sigortasını yapan şirkete açılacak tazminat davasına bakmaya görevli mahkeme Asliye Ticaret Mahkemesi’dir (6102 sayılı TTK md. 4/1-a, md.5/1). Çünkü, sigorta şirketinin sorumluluğu ticari bir işten kaynaklanmaktadır. Bu nedenle, trafik kazası nedeniyle aracın sürücüsü, sahibi ve işleteni ile birlikte aracı sigortalayan sigorta şirketine birlikte dava açılacaksa; tüm sorumlular hakkında Asliye Ticaret Mahkemesi’nde tazminat davası açılmalıdır.
 
--- Ölümlü Trafik Kazası Tazminat Davasında İstenebilecek Zararlar --
+ #####  Ölümlü Trafik Kazası Tazminat Davasında İstenebilecek Zararlar 
 
 Ölümlü trafik kazası tazminat davası, maddi ve manevi tazminat davasının bir türüdür. Ölümlü trafik kazaları nedeniyle açılan tazminat davalarında tazminat sorumlularından aşağıdaki zararlar talep edilebilir (BK md.53):
 
@@ -68,7 +68,7 @@ Trafik sigortasını yapan şirkete açılacak tazminat davasına bakmaya görev
 
 •	Destekten Yoksun Kalma Tazminatı: Trafik kazasında ölen kişinin yakınları (anne, baba, eş, çocuklar, nişanlı veya destek verdiği herhangi bir kişi) kaza nedeniyle destekten yoksun kalma tazminatı talep edebilirler. Destekten yoksun kalma tazminatı, ölenin hayat boyu desteğinden mahrum kalan kişilerin açtığı bir maddi tazminat davası türüdür. Destekten yoksun kalanlar, muhtemel destek süresi boyunca ölenden elde edecekleri mali menfaati tazminat sorumlularından talep edebilir.
 
--- Yaralamalı Trafik Kazası Tazminat Davasında İstenebilecek Zararlar --
+ #####  Yaralamalı Trafik Kazası Tazminat Davasında İstenebilecek Zararlar 
 
 Yaralanmalı trafik kazası tazminat davası, yaralanan kişinin tazminat sorumlularına karşı açtığı bir maddi ve manevi tazminat türüdür. Yaralanan kişinin yakınları hiçbir şekilde maddi tazminat talebinde bulunamazlar. Ancak, yaralanan kişi ağır bedensel bir yaralanma veya uzuv kaybına maruz kalmışsa; yaralanan kişinin yakınları manevi tazminat talebinde bulunabilirler.
 
@@ -84,7 +84,7 @@ Yaralanmalı trafik kazası tazminat davalarında tazminat sorumlularından aşa
 
 •	Ekonomik geleceğin sarsılmasından doğan kayıplar.
 
--- Trafik Kazalarında Manevi Tazminatın Belirlenme Şekli --
+ #####  Trafik Kazalarında Manevi Tazminatın Belirlenme Şekli 
 Ölümlü veya yaralamalı trafik kazaları nedeniyle hükmedilen manevi tazminatın amacı zarara uğrayanda bir huzur duygusu yaratmaktır. Manevi tazminat, davacı için zenginleşme aracı olmamalıdır. Mahkeme manevi tazminat ile ilgili hüküm kurarken olay sebebiyle duyulan acı ve elemin kısmen de olsa giderilmesini amaçlamalıdır. Mahkeme manevi tazminatı belirlerken şu hususları dikkate almalıdır:
 
 •	Tarafların sosyal ve ekonomik durumu,
@@ -95,7 +95,7 @@ Yaralanmalı trafik kazası tazminat davalarında tazminat sorumlularından aşa
 
 •	BK md.4 gereği hak ve nefaset kuralları.
 
--- Trafik Kazalarında Maddi Tazminatın Belirlenme Şekli --
+ #####  Trafik Kazalarında Maddi Tazminatın Belirlenme Şekli 
 
 Maddi tazminatın miktarını doğrudan uğranılan zarar ve kusur oranı belirlemektedir.
 Örnek vermek gerekirse (örneğimizde tazminat hesaplama yönteminin anlaşılması için temel esaslar belirlenmiştir); Trafik kazası, neticesinde maluliyete uğrayan (yaralanan) kişinin maluliyet oranının %70 olduğunu kabul edelim. Maluliyete uğrayanın olaydaki kusur oranının %80, yaşının 40, maaşının 10.000 TL olduğunu varsayalım. Genel hatları ile bir hesaplama yapmak gerekirse, tazminat miktarı şu esaslara göre belirlenecektir:
@@ -110,8 +110,7 @@ Maddi tazminatın miktarını doğrudan uğranılan zarar ve kusur oranı belirl
 
 Hemen belirtelim ki, tazminata neden olan olay aynı zamanda bir iş kazası ise, bu nedenle maluliyete uğrayan kişiye iş kazası geliri bağlanmışsa, bağlanan gelirin peşin sermaye değeri hesaplanan tazminat miktarından düşülür. Somut örneğimizde malul kişiye bağlanan maaşın peşin sermaye değerinin yaklaşık 100.000 TL olduğu varsayılabilir.
  
-                             Trafik Kazası Tazminat Davası Yargıtay Kararları
-________________________________________
+#### Trafik Kazası Tazminat Davası Yargıtay Kararları
 
 Trafik Kazasında Ölen Öğrencinin Gelirinin Hesaplanması
 
@@ -193,9 +192,13 @@ Dava, trafik kazasından kaynaklanan ölüm nedeniyle destekten yoksun kalma ve 
 Trafik Kazası Tazminatı ve Müstakbel Zarar Kavramı
 
 Taraflar arasındaki trafik kazasından kaynaklanan maddi ve manevi tazminat davasının yapılan yargılaması sonunda;
-Vücut bütünlüğü ihlâl edilen kişinin ekonomik geleceğinin sarsılması nedeniyle ortaya çıkan zararlar BK m. 46/I’de “iktisaden mahrum kalacağı mahrumiyetten tevellüt eden zararlar” şeklinde ifade edilmiştir. Bu hükümden de anlaşılacağı üzere vücut bütünlüğü ihlâl edilen kişinin bu ihlâl nedeniyle ekonomik geleceği sarsılmış olabilir. Bu tür zararlar çalışma gücünün tamamen veya kısmen kaybı nedeniyle ortaya çıkan zararlar dışında ekonomik geleceğin sarsılmasının meydana getirdiği zararlardır. Ekonomik geleceğin sarsılması nedeniyle ortaya çıkan zararlar müstakbel zararlardır ve bu zararlar çalışma gücünde bir azalma olmasa dahi meydana gelmektedir. Vücut bütünlüğü ihlâl edilen kişi çalışma gücünde bir azalma meydana gelmese dahi iş piyasasında yeni bir iş bulmakta veya eski işini korumakta güçlük çekmekte veya aynı işte çalışsa dahi ihlâlden öncesine nazaran daha çok emek sarf etmek zorunda kalmaktadır. Hatta bu kişiler ihlâl neticesinde işlerinden tamamen de çıkarılabilirler. Olayımızdaki gibi zarar görenin genç bir kız olması halinde bu kişinin evlenme şansının azalması veya beden şeklinin önemli derece değişmesi nedeniyle kaybetmesi ya da mesleğinde yükselmesine engel olması gibi hallerde de zarar görenin ekonomik geleceğinin sarsıldığından bahsedilir.
+Vücut bütünlüğü ihlâl edilen kişinin ekonomik geleceğinin sarsılması nedeniyle ortaya çıkan zararlar BK m. 46/I’de “iktisaden mahrum kalacağı mahrumiyetten tevellüt eden zararlar” şeklinde ifade edilmiştir.
+
+Bu hükümden de anlaşılacağı üzere vücut bütünlüğü ihlâl edilen kişinin bu ihlâl nedeniyle ekonomik geleceği sarsılmış olabilir. Bu tür zararlar çalışma gücünün tamamen veya kısmen kaybı nedeniyle ortaya çıkan zararlar dışında ekonomik geleceğin sarsılmasının meydana getirdiği zararlardır. Ekonomik geleceğin sarsılması nedeniyle ortaya çıkan zararlar müstakbel zararlardır ve bu zararlar çalışma gücünde bir azalma olmasa dahi meydana gelmektedir. Vücut bütünlüğü ihlâl edilen kişi çalışma gücünde bir azalma meydana gelmese dahi iş piyasasında yeni bir iş bulmakta veya eski işini korumakta güçlük çekmekte veya aynı işte çalışsa dahi ihlâlden öncesine nazaran daha çok emek sarf etmek zorunda kalmaktadır. Hatta bu kişiler ihlâl neticesinde işlerinden tamamen de çıkarılabilirler. Olayımızdaki gibi zarar görenin genç bir kız olması halinde bu kişinin evlenme şansının azalması veya beden şeklinin önemli derece değişmesi nedeniyle kaybetmesi ya da mesleğinde yükselmesine engel olması gibi hallerde de zarar görenin ekonomik geleceğinin sarsıldığından bahsedilir.
+
 Vücut bütünlüğünün ihlâli nedeniyle ekonomik geleceğin sarsılması özellikle mesleği nedeniyle toplumla sürekli iç içe olan kişiler bakımından ayrıca önem arz etmektedir. Örneğin, vücut bütünlüğü ihlâl edilen bir bayan sinema sanatçısının, halkla ilişkiler bölümünde çalışan bir kişinin ya da sağlık alanında doktor, hemşire olarak görev yapmakta olan kişilerin yüzünde sabit bir iz kalması, bu kişilerin çalışma güçlerinde ?ilen bir eksiklik meydana getirmemekle birlikte iş bulmalarını imkânsızlaştırabilecek, zorlaştırabilecek ya da kariyer olarak yükselmelerine engel olabilecektir. Bu gibi durumlarda zarar gören ekonomik geleceği sarsılarak zarara uğratılmış olur.
 Somut olayda davacı vekilince davacının kaza sonucu yüzünde sabit iz kaldığından ekonomik geleceğin sarsılması nedeni ile 20.00,00 TL maddi tazminat talep edilmiş, mahkemece davacının Anadolu Üniversitesi Sosyal Hizmetler Bölümü öğrencisi genç bir kız olması, iş hayatında çehrede sabit eser oluşması nedeniyle sıkıntı yaşayacağı, Borçlar Kanunu’nun 42/2. maddesi uyarınca uğranılan maddi zararın kapsamının ve parasal değerinin mahkemece takdir edilmesi gerektiği gerekçesiyle 10.000,00.TL müstakbel gelir kaybı nedeniyle tazminata hükmedilmiştir.
+
 Dosya içerisinde yer alan davacının fotoğraflarından yüzündeki izlerin sabit nitelikte olduğu anlaşılması bakımından, davacının Sosyal Hizmetler Bölümü öğrencisi olup ileride yüzündeki izlerin mesleğe kabulden sonra yapmış olduğu işin sosyal nitelikte insanlarla sürekli iletişim içerisinde olmasını gerekli kıldığı da gözönüne alındığında kişinin yüzündeki yaralanma sonucu oluşan izlerin yalnızca mesleğe kabulde değil kariyer olarak mesleğinde yükselmesinde de etkileri değerlendirilip açıklanan yönlerden gerekli araştırma yapılarak davacının yüzündeki sabit iz niteliğindeki yaralanma nedeni ile ekonomik geleceğin sarsılması sonucu oluşan zararın uzman bilirkişi tarafından belirlenmesi gerekirken eksik araştırma ile yazılı olduğu şekilde karar verilmiş olması doğru görülmemiştir (Yargıtay 17. Hukuk Dairesi - Karar:2017/4410).
 
 Trafik Kazası Tazminatında Sigorta Şirketinin Ödemesinin Mahsup Edilme Şekli

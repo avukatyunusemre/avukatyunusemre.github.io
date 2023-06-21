@@ -253,3 +253,7 @@ h5 {
 		gap: 12rem;
 	}
 }
+
+.text-justify {
+	text-align: justify;
+}

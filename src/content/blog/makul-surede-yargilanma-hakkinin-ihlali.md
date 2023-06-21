@@ -1,8 +1,8 @@
 ---
 title:	Makul Sürede Yargılanma Hakkının İhlali 
 publishDate: 2023-06-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/makul-sure.jpg
+img_alt: a
 description: |
   Uzun yargılama, bir davanın beklenenden veya öngörülenden uzun sürmesi olarak tanımlanabilir.
 tags:
