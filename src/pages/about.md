@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 ---
 
-# Hakkımızda
+## Hakkımızda
 
 
 ##### Özgeçmiş

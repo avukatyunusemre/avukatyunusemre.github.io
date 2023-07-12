@@ -3,52 +3,57 @@ title:	Miras Hukukunda Saklı Pay ve Tenkis Davası
 publishDate: 2023-07-11 00:00:00
 img: /assets/tenkis.jpg
 img_alt: a
-description: Saklı pay,
-  Mirasbırakanın miras hakkına tecavüz eden bazı tasarruflarına karşı korunan, yasal miras payının belirli bir oranıdır.
+description: Saklı pay, mirasbırakanın miras hakkına tecavüz eden bazı tasarruflarına karşı korunan, yasal miras payının belirli bir oranıdır.
 tags:
-  - Miras Hukukunda Saklı Pay Nedir?
+  - Saklı Pay Nedir?
   - Saklı Pay Oranları Nedir?
   - Tenkis Davası Nasıl Açılır?
 ---
-## Miras Hukukunda Saklı Pay Nedir, Saklı Pay Oranları Nedir, Saklı Pay Sahibine Ne Gibi Haklar Verir??
+#### Miras Hukukunda Saklı Pay Nedir,Saklı Pay Oranları Nedir,Saklı Pay Sahibine Ne Gibi Haklar Verir?
 
->  Mirasbırakan, tasarruf özgürlüğünün sınırları içinde, malvarlığının tamamında veya bir kısmında vasiyetname ya da miras sözleşmesiyle tasarrufta bulunabilir. Kanun koyucu mirasbırakanın tasarruf özgürlüğüne bazı kısıtlamalar getirmiştir. Bu istisnalardan biri Saklı Pay müessesidir.
+>  Mirasbırakan,tasarruf özgürlüğünün sınırları içinde,malvarlığının tamamında veya bir kısmında vasiyetname ya da miras sözleşmesiyle tasarrufta bulunabilir. Kanun koyucu mirasbırakanın tasarruf özgürlüğüne bazı kısıtlamalar getirmiştir. Bu istisnalardan biri Saklı Pay müessesidir.
 Saklı Paya dair açıklamaya geçmeden belirtmek isteriz ki;  Vasiyet bırakabilmek için ayırt etme gücüne sahip ve onbeş yaşını doldurmuş olmak gerekir. Yani bunun diğer anlamı 15 yaşından küçükler vasiyet bırakamaz. Bıraksalar dahi bu vasiyetname geçersizdir. Miras sözleşmesi yapabilmek için ayırt etme gücüne sahip ve ergin olmak, kısıtlı bulunmamak gerekir. Kural olarak 18 yaşından küçükler miras sözleşmesi yapamaz. Özet olarak saklı paya ilişkin dava açmadan önce bu ve benzeri durumların öncelikle incelenmesi önemlidir.
 
 Saklı Pay; Mirasbırakanın miras hakkına tecavüz eden bazı tasarruflarına karşı korunan, yasal miras payının belirli bir oranıdır. Mirasbırakan (muris) bu oranlar üzerinde tasarruf edemez. Saklı pay sahibi mirasçının, saklı pay üzerindeki miras hakkı hiçbir şekilde ortadan kaldırılamaz. Kanun bu durumu “Mirasçı olarak altsoyu, ana ve babası, (...) [1] veya eşi bulunan mirasbırakan, mirasının saklı paylar dışında kalan kısmında ölüme bağlı tasarrufta bulunabilir.” Şeklinde düzenlemiştir. Bu düzenleme lafzi olarak yorumlandığında mirasbırakanın ölümü esnasında altsoyu, ana ve babası veya eşi yoksa mirasbırakan mirasının tamamında tasarruf edebileceği açıktır. Bu durum izahtan varestedir.
 
-## Peki, Saklı Pay Oranları Nedir?
+#### Peki, Saklı Pay Oranları Nedir?
 Saklı pay aşağıdaki oranlardan ibarettir:
 1.	Altsoy için yasal miras payının yarısı,
-2.	Ana ve babadan her biri için yasal miras payının dörtte biri,
-3.	Sağ kalan eş için, altsoy veya ana ve baba zümresiyle birlikte mirasçı olması hâlinde yasal miras payının tamamı, diğer hâllerde yasal miras payının dörtte üçü.
+2.	Ana ve babadan her biri için yasal miras 
+payının dörtte biri,
+3.	Sağ kalan eş için, altsoy veya ana ve 
+baba zümresiyle birlikte mirasçı olması hâlinde yasal
+ miras payının tamamı, diğer 
+ hâllerde yasal miras payının dörtte üçü.
 
 Saklı pay oranları tespit edildikten sonra diğer bir sorun mirasbırakanın tasarruf edilebileceği kısmın tespit edilmesidir. Bu tasarruf edilebilinir kısım, terekenin mirasbırakanın ölümü günündeki durumuna göre hesaplanır.
 Hesap yapılırken, mirasbırakanın borçları, cenaze giderleri, terekenin mühürlenmesi ve yazımı giderleri, mirasbırakan ile birlikte yaşayan ve onun tarafından bakılan kimselerin üç aylık geçim giderleri terekeden indirilir.
 Mirasbırakanın sağlararası karşılıksız kazandırmaları, tenkise tâbi oldukları ölçüde, tasarruf edilebilir kısmın hesabında terekeye eklenir.
 
-##### Yargıtay 2. Hukuk Dairesi’nin Tarihi: 02.05.2005, Esas Numarası: 2005/4321, Karar Numarası: 2005/7124
+###### Yargıtay 2. Hukuk Dairesi’nin Tarihi: 02.05.2005, Esas Numarası: 2005/4321, Karar Numarası: 2005/7124
 
 Özeti: 227 Ada 11 ve 13 parseller 5.3.1998 ve 25.7.1997 tarihlerinde satış olarak gösterilmiştir. Bu satışların bedelsiz olduğu ve miras bırakanın saklı paya tecavüz kastıyla hakaret ettiği toplanan delillerle sabittir. Tenkis hükümleri nazar alınarak karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 >  Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat sigortası sözleşmesi yapması veya böyle bir kişiyi sonradan lehdar olarak tayin etmesi ya da sigortacıya karşı olan istem hakkını sağlararası veya ölüme bağlı tasarrufla karşılıksız olarak üçüncü kişiye devretmesi hâlinde, sigorta alacağının mirasbırakanın ölümü zamanındaki satın alma değeri terekeye eklenir.
 
-##### Yargıtay 2. Hukuk Dairesi Esas Numarası: 2001/5021 Karar Numarası: 2001/6543 Karar Tarihi: 27.04.2001
+###### Yargıtay 2. Hukuk Dairesi Esas Numarası: 2001/5021 Karar Numarası: 2001/6543 Karar Tarihi: 27.04.2001
 
 ÖZETİ: Tenfizi bağışlayanın ölümüne bağlı bağışlama hakkında vasiyet hükümleri uygulanır. Somut olayda, miras bırakan kendi adına, ancak muayyen sürede hayatta kalması halinde kendisi, ölümü halinde çocukları lehine sigorta yaptırmıştır. Söz konusu sigorta üçüncü şahıs lehine hayat sigortası niteliğinde değildir. Ölüm şartına bağlı lehdar çocuklara yapılan teberru niteliğindedir. Söz konusu sigorta poliçesi ile yapılan tasarruf murisin ölümü anında hüküm ifade edeceğinden vasiyet hükmünde olup, satın alma kıymetleri nispetinde tenkise ve terekeye dâhildir.
 
-##  Saklı Pay Hakkı, Sahibine Ne Gibi Haklar Verir? Tenkis Davası Nedir? Tenkis davasını kim açar?
-Saklı pay mirasçıya tenkisi isteme hakkını verir. Bu yolla mirasçı mirasbırakanın tasarruf oranını aştığı kısmı bir şekilde mahkemede tespit ettirir ve miras payına ayni ya da nakdi şekilde ulaşır. Ezcümle Tenkis davası saklı paya sahip olanları haklarını korumak için açtığı davaya verilen isimdir. Saklı paylarının karşılığını alamayan mirasçılar, mirasbırakanın tasarruf edebileceği kısmı aşan tasarruflarının tenkisini dava edebilirler.
+#### Saklı Pay Hakkı, Sahibine Ne Gibi Haklar Verir? 
+#### Tenkis Davası Nedir? 
+#### Tenkis davasını kim açar?
+
+**Saklı pay mirasçıya tenkisi isteme hakkını verir. Bu yolla mirasçı mirasbırakanın tasarruf oranını aştığı kısmı bir şekilde mahkemede tespit ettirir ve miras payına ayni ya da nakdi şekilde ulaşır. Ezcümle Tenkis davası saklı paya sahip olanları haklarını korumak için açtığı davaya verilen isimdir. Saklı paylarının karşılığını alamayan mirasçılar, mirasbırakanın tasarruf edebileceği kısmı aşan tasarruflarının tenkisini dava edebilirler.
 Saklı pay sahibi mirasçılara ölüme bağlı tasarrufla yapılan ve tasarruf edilebilir kısmı aşan kazandırmaların onların saklı paylarını aşan kısmı orantılı olarak tenkise tâbi olur. Tenkise tâbi birden fazla ölüme bağlı tasarrufun bulunması hâlinde, saklı pay sahibi mirasçıya yapılan kazandırmanın saklı payı aşan kısmı ile saklı pay sahibi olmayan kimselere yapılan kazandırmalar orantılı olarak tenkis edilir.
 Mirasbırakan, tasarruf edebileceği kısmı aştığında, saklı payı zedelenen mirasçı, iflâsı hâlinde iflâs dairesinin veya mirasın geçtiği tarihte kendisine karşı ellerinde ödemeden aciz belgesi bulunan alacaklıların ihtarına rağmen tenkis davası açmazsa, iflâs idaresi veya bu alacaklılar, alacaklarının elde edilmesi için gerekli olan oranda ve mirasçıya tanınan süre içinde tenkis davası açabilirler.
 Mirasçılıktan çıkarılanın çıkarma tasarrufuna itiraz etmemesi durumunda da iflâs idaresi veya alacaklılar, aynı koşullarla tenkis davası açabilirler.
 Tenkis, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça, mirasçı atanması yoluyla veya diğer bir ölüme bağlı tasarrufla elde edilen kazandırmaların tamamında, orantılı olarak yapılır.
-Ölüme bağlı tasarrufla kazandırma elde eden kimse, bazı vasiyetleri yerine getirmekle yükümlü kılınmışsa, kazandırmanın tenkise tâbi tutulması hâlinde, bu kimse mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça vasiyet borçlarının da aynı oranda tenkis edilmesini isteyebilir.
+Ölüme bağlı tasarrufla kazandırma elde eden kimse, bazı vasiyetleri yerine getirmekle yükümlü kılınmışsa, kazandırmanın tenkise tâbi tutulması hâlinde, bu kimse mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça vasiyet borçlarının da aynı oranda tenkis edilmesini isteyebilir.**
 
-
-## Tenkise tabi kazandırmalar
-
+#### **Tenkise Tabi Kazandırmalar**
 > Aşağıdaki karşılıksız kazandırmalar, ölüme bağlı tasarruflar gibi tenkise tâbidir:
+
 1. Mirasbırakanın, mirasçılık sıfatını kaybeden yasal mirasçıya miras payına mahsuben yapmış olduğu sağlararası kazandırmalar, geri verilmemek kaydıyla altsoyuna malvarlığı devri veya borçtan kurtarma yoluyla yaptığı kazandırmalar ya da alışılmışın dışında verilen çeyiz ve kuruluş sermayesi,
 2. Miras haklarının ölümden önce tasfiyesi maksadıyla yapılan kazandırmalar,
 3. Mirasbırakanın serbestçe dönme hakkını saklı tutarak yaptığı bağışlamalar ve ölümünden önceki bir yıl içinde âdet üzere verilen hediyeler dışında yapmış olduğu bağışlamalar,
@@ -59,44 +64,40 @@ Miras sözleşmesiyle elde ettiği kazandırma tenkise tâbi tutulan kimse, bu k
 
 Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat sigortası yaptığı veya böyle bir kişiyi lehdar olarak sonra belirlediği ya da sigortacıya karşı olan istem hakkını sağlararası veya ölüme bağlı tasarrufla karşılıksız olarak üçüncü kişiye devrettiği hâllerde, sigorta alacağının mirasbırakanın ölümü zamanındaki satın alma değeri tenkise tâbi olur.
 
-Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çevrilmeleri hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile terekesini yükümlü kılarsa, mirasçıları, intifa hakkının veya irat borcunun tenkisini ya da tasarruf edilebilir kısmı vererek bu yükümlülüğün kaldırılmasını isteyebilirler.
+Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çevrilmeleri hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile terekesini yükümlü kılarsa, mirasçıları, intifa hakkının veya irat borcunun tenkisini ya da tasarruf edilebilir kısmı vererek bu yükümlülüğün kaldırılmasını isteyebilirler.Mirası artmirasçıya geçirme yükümlülüğü ile saklı payı zedelenen mirasçı, aşan kısmın tenkisini isteyebilir.
 
-Mirası artmirasçıya geçirme yükümlülüğü ile saklı payı zedelenen mirasçı, aşan kısmın tenkisini isteyebilir.
-
-## Tenkiste sıra
+**#### Tenkiste sıra**
 Tenkis, saklı pay tamamlanıncaya kadar, önce ölüme bağlı tasarruflardan; bu yetmezse, en yeni tarihlisinden en eskisine doğru geriye gidilmek üzere sağlararası kazandırmalardan yapılır.
 Kamu tüzel kişileri ile kamuya yararlı dernek ve vakıflara yapılan ölüme bağlı tasarruflar ve sağlararası kazandırmalar en son sırada tenkis edilir.
 Bir tasarrufun iptali bir öncekinin yürürlüğe girmesini sağlarsa, süreler iptal kararının kesinleşmesi tarihinde işlemeye başlar.
 
-## Tenkis Davasında Harç
+**#### Tenkis Davasında Harç**
 
 Mirasın tenkis davasının başlatılması için gereken harç oranı miras olan mal veya mülkün değerine göre belirlenir. Aynı şekilde dava sürecinde ortaya çıkan masraflar da bu şekilde düşecek veya yükselecektir.
 
-## Tenkis Davasında Zamanaşımı?
+#### Tenkis Davasında Zamanaşımı?
 
 Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer. Mevcut süre dolduktan sonra kişinin defi usulüyle isteklerini bildirmesi mümkündür. Bu yöntem, tenkis davasını açması gereken zamanda açmayan şahıslar tarafından uygulanılması gerekir. 
 
-## Tenkis Davasında Görevli Mahkeme
+#### Tenkis Davasında Görevli Mahkeme
 
 Mirasta tenkis davasında görevli mahkeme Asliye Hukuk Mahkemesidir. Çünkü tenkis davası malvarlığına ilişkin bir davadır. Malvarlığına ilişkin davalarda görevli mahkeme Asliye Hukuk Mahkemesidir.
 
-## Tenkis Davasını Kimler Açabilir?
+#### Tenkis Davasını Kimler Açabilir?
 
 Tenkis davasını, sadece miras bıraka kişinin anne ve babası, eşi ve altsoyu açabilir. Yani saklı pay sahibi olan kişiler ile sınırlıdır.
 
-## Tenkis Davasını Kimler Açamaz?
+#### Tenkis Davasını Kimler Açamaz?
 
 Önceki paragraflarda belirtildiği gibi mirası bırakan şahsın eşi, annesi, babası, çocukları ve torunları saklı pay sahibi olan mirasçılardır. Bunun dışında kalan örneğin miras bırakan şahsın kardeşi, amcaları, halaları, teyze ve dayıları gibi çeşitli diğer mirasçılar tenkis davası açmaya yönelik hiç bir hakka sahip değildir.
-
-## Tenkis Davası Kime Karşı Açılabilir?
-
+#### Tenkis Davası Kime Karşı Açılabilir?
 Miras tenkis davası, prensip olarak saklı pay sahibi olan kişilerin ve nadir olarak da olsa bu mirasçılardan alacaklı olanların, miras bırakanın şahsın tasarruf oranından fazlasını kazandırmaları ve bu fazlalık oranı dâhilinde vasıfsız hale getirilmesi için mahkemeye talep edilen bir dava türüdür. Tenkis davası bu şartlar altında sadece miras bırakan şahsın ölümü durumunda açılabilir. Tenkis davası, saklı payı ihlal edilen mirasçı tarafından, saklı payını ihlal eden kazandırma işleminin yapıldığı kişiye karşı açılır. Saklı payı ihlal edilen birden fazla mirasçı olsa da, her saklı paylı mirasçı tek başına dava açabilir. Murisin ölümü durumunda açılması mümkün olan bir dava türüdür. Kesinlikle muris sağ ise bu dava açılamaz.
 
-## Tenkis Davası Nasıl Sonuçlanır?
+#### Tenkis Davası Nasıl Sonuçlanır?
 
 Miras bırakan şahsın saklı pay hakkı bulunan asıl mirasçıları ve başka yakınları, kendi haklarının ötesinde başka mirasçının haklarını ihlal eden mirasçılara yönelik açılır. Bu durumda miras hukuku çerçevesinde miras paylaştırma için ortaya çıkan kararlar iptal edilir ve yeni baştan kararlaştırılması sürecine gidilir. Miras bırakan kişinin ölümünün ardından, mirasçılar adına açılabilme hakkı vardır. Bu dava sayesinde, saklı pay hakkı bulunanlar arasındaki mal paylaşımının, adil bir şekilde tekrardan dağıtılması istenebilir. Yargıtay bu talebi değerlendirir. Yani bu dava türü aslında, tenkis davası belirsiz alacak davası olarak ifade edilebilir. Davadan önce elde edilecek alacağın özellikleri ve tutarı net değildir. Davanın seyri içinde, mahkeme nezdinde uygun görülen niteliklerde mal paylaşımı sağlanır.
 
-## Spesifik Olaylara Özgü Yargıtay Kararları;
+**#### Spesifik Olaylara Özgü Yargıtay Kararları;**
 
 > SAKLI PAYLI MİRASÇILAR LEHİNE KAZANDIRMALARIN TENKİSİ
 
