@@ -1,6 +1,6 @@
 ---
 title: Trafik Kazası Nedeniyle Tazminat Davası
-publishDate: 2020-03-04 00:00:00
+publishDate: 2023-07-12 00:00:00
 img: /assets/trafik-kaza.jpg
 img_alt: a
 description: |
