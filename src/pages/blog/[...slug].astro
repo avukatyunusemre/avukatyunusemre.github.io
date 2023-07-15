@@ -7,7 +7,6 @@ import ContactCTA from '../../components/ContactCTA.astro';
 import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
 import Pill from '../../components/Pill.astro';
-import Grid from '../../components/Grid.astro';
 
 interface Props {
 	entry: CollectionEntry<'blog'>;
@@ -149,7 +148,7 @@ const { Content } = await entry.render();
 		}
 
 		.content :global(blockquote) {
-			font-size: var(--text-2xl);
+			font-size: var(--text-lg);
 		}
 	}
 </style>
