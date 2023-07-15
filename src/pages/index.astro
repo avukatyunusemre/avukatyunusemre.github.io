@@ -63,7 +63,7 @@ const blogs = (await getCollection("blog"))
 						{
 							blogs.map(blog => (
 								<li>
-									<PortfolioPreview blogs={blog} />
+									<PortfolioPreview blog={blog} />
 								</li>
 							))
 						}
