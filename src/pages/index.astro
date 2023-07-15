@@ -61,9 +61,9 @@ const blogs = (await getCollection("blog"))
 				<div class="gallery">
 					<Grid variant="offset">
 						{
-							blogs.map(project => (
+							blogs.map(blog => (
 								<li>
-									<PortfolioPreview project={project} />
+									<PortfolioPreview blogs={blog} />
 								</li>
 							))
 						}
