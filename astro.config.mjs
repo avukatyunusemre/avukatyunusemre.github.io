@@ -1,6 +1,12 @@
 import { defineConfig } from 'astro/config';
 
+import sitemap from "@astrojs/sitemap";
+
 // https://astro.build/config
 export default defineConfig({
-    site: "http://avyunusemreyasar.com"
+  site: "https://avyunusemreyasar.com",
+  integrations: [sitemap({
+    changefreq: "weekly",
+    lastmod: new Date()
+  })]
 });
