@@ -7,6 +7,7 @@ description: |
   Aşkın Haciz İİK Madde 85'de düzenlenmiş, borçlunun borcundan fazla mülkiyet hakkının kısıtlanmaması için İcra Dairesine yüklenmiş sorumluluğun düzenlendiği hukuki müessesedir.
 tags:
   - Aşkın Hacize Dair Açıklamalarımız
+showInMain: 1
 ---
 ## Aşkın Hacize Dair Bilgilendirme
 

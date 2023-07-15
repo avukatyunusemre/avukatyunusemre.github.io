@@ -7,6 +7,7 @@ import ContactCTA from '../../components/ContactCTA.astro';
 import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
 import Pill from '../../components/Pill.astro';
+import Grid from '../../components/Grid.astro';
 
 interface Props {
 	entry: CollectionEntry<'blog'>;
@@ -38,7 +39,7 @@ const { Content } = await entry.render();
 							<div class="tags">
 								{entry.data.tags.map((t) => <Pill>{t}</Pill>)}
 							</div>
-							<p class="description text-justify">{entry.data.description}</p>
+							<p class="description">{entry.data.description}</p>
 						</div>
 					</Hero>
 				</div>
@@ -76,13 +77,16 @@ const { Content } = await entry.render();
 	}
 
 	.tags {
-		display: flex;
+		display: grid;
 		gap: 0.5rem;
+		grid-template-columns: 1fr 1fr 1fr;
+		overflow-y: visible;
 	}
 
 	.description {
 		font-size: var(--text-lg);
 		max-width: 54ch;
+		text-align: start;
 	}
 
 	.content {
