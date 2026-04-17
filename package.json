@@ -14,5 +14,6 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^1.4.0"
-  }
+  },
+  "packageManager": "yarn@4.10.3"
 }
