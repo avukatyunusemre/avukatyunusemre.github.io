@@ -76,10 +76,11 @@ const { Content } = await entry.render();
 	}
 
 	.tags {
-		display: grid;
-		gap: 0.5rem;
-		grid-template-columns: 1fr 1fr 1fr;
-		overflow-y: visible;
+		display: flex;
+  		flex-wrap: wrap;
+  		gap: 0.4rem;
+		max-width: 100%;
+		justify-content: center;
 	}
 
 	.description {
