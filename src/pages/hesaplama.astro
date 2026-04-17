@@ -1,0 +1,489 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import ContactCTA from "../components/ContactCTA.astro";
+---
+
+<BaseLayout
+  title="Hesaplama Araçları | Avukat Yunus Emre Yaşar"
+  description="Hukuki ve pratik hesaplama araçları"
+>
+  <div class="stack gap-20">
+    <main class="wrapper stack gap-8 lg:gap-12">
+      <Hero
+        title="HESAPLAMA ARAÇLARI"
+        tagline="İhtiyacınıza göre farklı hesaplamaları tek sayfada yapabilirsiniz."
+        align="start"
+      />
+
+      <div class="tools-grid">
+        <!-- ISLAH -->
+        <section class="calculator-card stack gap-6">
+          <header class="stack gap-2">
+            <h2>Islah harcı hesaplama</h2>
+            <p>Formül: Y = X * 68,31 / 1000 / 4</p>
+          </header>
+
+          <div class="field stack gap-2">
+            <label>Dava değeri (TL)</label>
+
+            <div class="number-input">
+              <input
+                id="islahInputInteger"
+                type="text"
+                inputmode="numeric"
+                placeholder="165.755"
+                autocomplete="off"
+              />
+
+              <span class="separator">,</span>
+
+              <input
+                id="islahInputDecimal"
+                type="text"
+                inputmode="numeric"
+                placeholder="00"
+                maxlength="2"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div class="result stack gap-2">
+            <span>Sonuç</span>
+            <strong id="islahOutput">0,00 TL</strong>
+          </div>
+        </section>
+
+        <!-- VEKALET -->
+        <section class="calculator-card stack gap-6">
+          <header class="stack gap-2">
+            <h2>Vekalet Ücreti Hesaplama</h2>
+            <p>
+              Kademeli tarife uygulanır. Girilen tutar, dilimlere ayrılarak
+              ilgili oranlar üzerinden hesaplanır.
+            </p>
+          </header>
+
+          <div class="field stack gap-2">
+            <label>Uyuşmazlık / dava değeri (TL)</label>
+
+            <div class="number-input">
+              <input
+                id="vekaletInputInteger"
+                type="text"
+                inputmode="numeric"
+                placeholder="165.755"
+                autocomplete="off"
+              />
+
+              <span class="separator">,</span>
+
+              <input
+                id="vekaletInputDecimal"
+                type="text"
+                inputmode="numeric"
+                placeholder="00"
+                maxlength="2"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div class="result stack gap-2">
+            <span>Vekalet ücreti</span>
+            <strong id="vekaletOutput">0,00 TL</strong>
+          </div>
+        </section>
+
+        <section class="calculator-card stack gap-6">
+          <header class="stack gap-2">
+            <h2>Faiz hesaplama</h2>
+            <p>
+              Yıllık faiz oranına göre, başlangıç ve bitiş tarihi arasındaki gün
+              sayısı üzerinden faiz tutarı hesaplanır. Şubat ayı her zaman 28
+              gün kabul edilir.
+            </p>
+            <a href="http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/temel+faaliyetler/para+politikasi/merkez+bankasi+faiz+oranlari">T.C. Merkez Bankası Faiz Oranları</a>
+          </header>
+
+          <div class="field stack gap-2">
+            <label>Ana para (TL)</label>
+
+            <div class="number-input">
+              <input
+                id="faizAnaParaInteger"
+                type="text"
+                inputmode="numeric"
+                placeholder="100.000"
+                autocomplete="off"
+              />
+
+              <span class="separator">,</span>
+
+              <input
+                id="faizAnaParaDecimal"
+                type="text"
+                inputmode="numeric"
+                placeholder="00"
+                maxlength="2"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div class="field stack gap-2">
+            <label for="faizBaslangic">Başlangıç tarihi</label>
+            <input id="faizBaslangic" type="date" />
+          </div>
+
+          <div class="field stack gap-2">
+            <label for="faizBitis">Bitiş tarihi</label>
+            <input id="faizBitis" type="date" />
+          </div>
+
+          <div class="field stack gap-2">
+            <label>Faiz oranı (% yıllık)</label>
+
+            <div class="number-input">
+              <input
+                id="faizOraniInteger"
+                type="text"
+                inputmode="numeric"
+                placeholder="24"
+                autocomplete="off"
+              />
+
+              <span class="separator">,</span>
+
+              <input
+                id="faizOraniDecimal"
+                type="text"
+                inputmode="numeric"
+                placeholder="00"
+                maxlength="2"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div class="result stack gap-2">
+            <span>Faiz tutarı</span>
+            <strong id="faizOutput">0,00 TL</strong>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <ContactCTA />
+  </div>
+</BaseLayout>
+
+<script>
+  const formatNumber = (value) =>
+    new Intl.NumberFormat("tr-TR", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 2,
+    }).format(value);
+
+  const formatIntegerTR = (value) => {
+    const digits = String(value || "").replace(/\D/g, "");
+    return digits.replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+  };
+
+  const getAmountFromSplitInputs = (integerInput, decimalInput) => {
+    const integerPart = (integerInput?.value || "").replace(/\D/g, "");
+    const decimalPart = (decimalInput?.value || "")
+      .replace(/\D/g, "")
+      .slice(0, 2);
+
+    const normalizedInteger = integerPart || "0";
+    const normalizedDecimal = decimalPart.padEnd(2, "0");
+
+    return Number(`${normalizedInteger}.${normalizedDecimal}`);
+  };
+
+  const bindSplitNumberInput = ({ integerId, decimalId }) => {
+    const integerInput = document.getElementById(integerId);
+    const decimalInput = document.getElementById(decimalId);
+
+    integerInput?.addEventListener("input", (e) => {
+      const raw = e.target.value.replace(/\D/g, "");
+      e.target.value = formatIntegerTR(raw);
+    });
+
+    decimalInput?.addEventListener("input", (e) => {
+      e.target.value = e.target.value.replace(/\D/g, "").slice(0, 2);
+    });
+  };
+
+  const calculateVekaletUcreti = (x) => {
+    const amount = Number(x) || 0;
+
+    const brackets = [
+      { limit: 600000, rate: 0.16 },
+      { limit: 600000, rate: 0.15 },
+      { limit: 1200000, rate: 0.14 },
+      { limit: 1200000, rate: 0.13 },
+      { limit: 1800000, rate: 0.11 },
+      { limit: 2400000, rate: 0.08 },
+      { limit: 3000000, rate: 0.05 },
+      { limit: 3600000, rate: 0.03 },
+      { limit: 4200000, rate: 0.02 },
+      { limit: Infinity, rate: 0.01 },
+    ];
+
+    let remaining = amount;
+    let total = 0;
+
+    for (const bracket of brackets) {
+      if (remaining <= 0) break;
+
+      const taxablePart = Math.min(remaining, bracket.limit);
+      total += taxablePart * bracket.rate;
+      remaining -= taxablePart;
+    }
+
+    return total;
+  };
+
+  const bindCalculator = ({
+    integerInputId,
+    decimalInputId,
+    outputId,
+    formula,
+    suffix = " TL",
+  }) => {
+    const integerInput = document.getElementById(integerInputId);
+    const decimalInput = document.getElementById(decimalInputId);
+    const output = document.getElementById(outputId);
+
+    const calculate = () => {
+      const x = getAmountFromSplitInputs(integerInput, decimalInput);
+      const y = formula(x);
+
+      if (output) {
+        output.textContent = `${formatNumber(y)}${suffix}`;
+      }
+    };
+
+    bindSplitNumberInput({
+      integerId: integerInputId,
+      decimalId: decimalInputId,
+    });
+
+    integerInput?.addEventListener("input", calculate);
+    decimalInput?.addEventListener("input", calculate);
+
+    calculate();
+  };
+
+  bindCalculator({
+    integerInputId: "islahInputInteger",
+    decimalInputId: "islahInputDecimal",
+    outputId: "islahOutput",
+    formula: (x) => (x * 68.31) / 1000 / 4,
+  });
+
+  bindCalculator({
+    integerInputId: "vekaletInputInteger",
+    decimalInputId: "vekaletInputDecimal",
+    outputId: "vekaletOutput",
+    formula: (x) => calculateVekaletUcreti(x),
+  });
+
+  // Faiz hesabı
+  const parseDateParts = (value) => {
+    if (!value) return null;
+
+    const [year, month, day] = value.split("-").map(Number);
+    if (!year || !month || !day) return null;
+
+    return { year, month, day };
+  };
+
+  const serialDayNoLeap = ({ year, month, day }) => {
+    const monthDays = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+    let total = year * 365;
+
+    for (let i = 0; i < month - 1; i++) {
+      total += monthDays[i];
+    }
+
+    total += day;
+
+    return total;
+  };
+
+  const getPassedDaysNoLeap = (startValue, endValue) => {
+    const start = parseDateParts(startValue);
+    const end = parseDateParts(endValue);
+
+    if (!start || !end) return 0;
+
+    const diff = serialDayNoLeap(end) - serialDayNoLeap(start);
+    return diff > 0 ? diff : 0;
+  };
+
+  const bindFaizCalculator = ({
+    anaParaIntegerId,
+    anaParaDecimalId,
+    oranIntegerId,
+    oranDecimalId,
+    baslangicId,
+    bitisId,
+    outputId,
+    suffix = " TL",
+  }) => {
+    const anaParaIntegerInput = document.getElementById(anaParaIntegerId);
+    const anaParaDecimalInput = document.getElementById(anaParaDecimalId);
+    const oranIntegerInput = document.getElementById(oranIntegerId);
+    const oranDecimalInput = document.getElementById(oranDecimalId);
+    const baslangicInput = document.getElementById(baslangicId);
+    const bitisInput = document.getElementById(bitisId);
+    const output = document.getElementById(outputId);
+
+    bindSplitNumberInput({
+      integerId: anaParaIntegerId,
+      decimalId: anaParaDecimalId,
+    });
+
+    bindSplitNumberInput({
+      integerId: oranIntegerId,
+      decimalId: oranDecimalId,
+    });
+
+    const calculate = () => {
+      const anaPara = getAmountFromSplitInputs(
+        anaParaIntegerInput,
+        anaParaDecimalInput,
+      );
+
+      const faizOrani = getAmountFromSplitInputs(
+        oranIntegerInput,
+        oranDecimalInput,
+      );
+
+      const gun = getPassedDaysNoLeap(baslangicInput?.value, bitisInput?.value);
+
+      const faizTutari = anaPara * (faizOrani / 100) * (gun / 365);
+
+      if (output) {
+        output.textContent = `${formatNumber(faizTutari)}${suffix}`;
+      }
+    };
+
+    anaParaIntegerInput?.addEventListener("input", calculate);
+    anaParaDecimalInput?.addEventListener("input", calculate);
+    oranIntegerInput?.addEventListener("input", calculate);
+    oranDecimalInput?.addEventListener("input", calculate);
+    baslangicInput?.addEventListener("input", calculate);
+    bitisInput?.addEventListener("input", calculate);
+
+    calculate();
+  };
+
+  bindFaizCalculator({
+    anaParaIntegerId: "faizAnaParaInteger",
+    anaParaDecimalId: "faizAnaParaDecimal",
+    oranIntegerId: "faizOraniInteger",
+    oranDecimalId: "faizOraniDecimal",
+    baslangicId: "faizBaslangic",
+    bitisId: "faizBitis",
+    outputId: "faizOutput",
+  });
+</script>
+
+<style>
+  .tools-grid {
+    display: grid;
+    gap: 1.5rem;
+  }
+
+  .calculator-card {
+    padding: 1.5rem;
+    border: 1px solid var(--gray-800);
+    border-radius: 1.5rem;
+    background: var(--gradient-subtle);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .calculator-card h2 {
+    font-size: var(--text-xl);
+  }
+
+  .calculator-card p {
+    color: var(--gray-300);
+    font-size: var(--text-sm);
+  }
+
+  .field label {
+    font-size: var(--text-sm);
+    color: var(--gray-300);
+  }
+
+  .number-input {
+    display: flex;
+    align-items: center;
+    gap: 0.15rem;
+    width: 100%;
+  }
+
+  .number-input input {
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--gray-700);
+    border-radius: 0.9rem;
+    background: var(--gray-999);
+    color: var(--gray-100);
+    font-size: var(--text-md);
+    min-width: 0;
+  }
+
+  .number-input input:first-of-type {
+    flex: 4;
+  }
+
+  .number-input input:last-of-type {
+    flex: 0 0 30%;
+  }
+
+  .separator {
+    font-size: 1.25rem;
+    color: var(--gray-300);
+    line-height: 1;
+    margin-inline: -0.1rem;
+    transform: translateY(-1px);
+  }
+
+  .result {
+    margin-top: 0.15rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--gray-800);
+  }
+
+  .result span {
+    font-size: var(--text-sm);
+    color: var(--gray-300);
+  }
+
+  .result strong {
+    font-size: var(--text-2xl);
+  }
+
+  @media (min-width: 50em) {
+    .tools-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .calculator-card {
+      padding: 2rem;
+    }
+
+    .result strong {
+      font-size: var(--text-3xl);
+    }
+  }
+</style>
