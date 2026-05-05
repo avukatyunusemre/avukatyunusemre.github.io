@@ -111,21 +111,26 @@ AYM, makul sürenin belirlenmesinde, başvurucu için davanın sağlayacağı hu
 
 #### MAKUL SÜREDE YARGILANMA HAKKININ İHLAL EDİLDİĞİ GEREKÇESİYLE TAZMİNAT TALEP ETMEK İÇİN NE YAPMAK GEREKİR?
 
-Makul sürede yargılanma hakkının ihlal-edildiği gerekçesiyle tazminat talep etmek için Anayasa Mahkemesi’ne bireysel-başvuru yapmak gerekir.
+Makul sürede yargılanma hakkının ihlal edildiği iddiasına dayalı tazminat taleplerinde başvurulacak yol bakımından güncel hukukî sistem iki aşamalı bir yapı arz etmektedir.
 
-Bireysel başvuru yolunda, davanın esasının incelenebilmesi için, öncelikle başvurunun kabul edilebilir bulunması şarttır. AYM, kabul edilebilirlik koşullarını taşımayan başvuruları, işin esasına girmeden reddetmektedir. AYM’nin bu tür ret kararları kesin olup, karara karşı başka bir başvuru yolu yoktur.
+İlk aşamada, İnsan Hakları Tazminat Komisyonu’na başvuru yapılması zorunludur. Komisyon, 6384 sayılı Kanun kapsamında kurulmuş olup, yargılamaların makul sürede sonuçlandırılmaması nedeniyle ortaya çıkan ihlalleri inceleyerek uygun gördüğü hâllerde manevi tazminata hükmetmektedir. Bu yönüyle Komisyon, makul süre ihlallerine özgülenmiş, özel ve etkili bir başvuru yoludur.
 
-Resmi internet sayfasındaki güncel istatistik verilerine göre, AYM bugüne kadar yapılan tüm bireysel başvuruların %86,5’ini kabul edilemez bularak reddetmiştir. Bu nedenle, kabul edilebilirlik kriterlerini taşıyan bir başvuru dilekçesi hazırlamak tazminat alabilmenin ön koşuludur.
+Komisyona başvuru süresi;
+Yargılama kesinleşmiş ise: Kesinleşme tarihinden itibaren 1 yıl,
+Yargılama devam ediyor ise: Makul sürenin aşıldığı iddiası mevcut olduğu sürece her zaman,
+şeklinde düzenlenmiştir.
 
-Anayasa Mahkemesi’ne bireysel başvuru yolu, diğer tüm davalardan farklı özellikleri olan, uzmanlık gerektiren, çok teknik bir konudur. Bu nedenle bireysel başvuruda bulunmak isteyen kişilerin, bu konuda uzmanlaşmış avukatlardan profesyonel hukuk desteği almasında büyük fayda vardır.
+Nitekim bu başvuru yolu, Anayasa Mahkemesi içtihadında açıkça “etkili ve tüketilmesi zorunlu bir iç hukuk yolu” olarak kabul edilmiştir. Bu nedenle, Komisyona başvuru yapılmadan doğrudan Anayasa Mahkemesi’ne bireysel başvuruda bulunulması hâlinde, başvurular kural olarak “başvuru yollarının tüketilmemesi” gerekçesiyle kabul edilemez bulunmaktadır.
 
-#### AYM’NİN HÜKMETTİĞİ TAZMİNAT MİKTARI NE KADARDIR?
+İkinci aşamada ise, Komisyon tarafından verilen kararın yetersiz olduğu, ihlali gidermediği veya tazminatın yeterli olmadığı iddiası söz konusu ise, bu defa Anayasa Mahkemesi’ne bireysel başvuru yapılması mümkündür.
 
-AYM, makul sürede yargılanma hakkının ihlal edildiğini tespit ettiğinde manevi tazminata hükmetmektedir. Tazminatla ilgili olarak önceden belirlenen kesin miktarlar yoktur. Yüksek Mahkeme, tazminat miktarını her dosyanın kendi koşullarını dikkate alarak belirlemektedir. Örneğin AYM, 12 yıl altı 6 ay süren bir hukuk davasında 19.600 TL, 9 yıl 6 ay süren ceza davasında 14.000 TL, 10 yıl 6 ay süren idari yargı davasında 24.000 TL manevi tazminata hükmedilmiştir.
+Anayasa Mahkemesi’ne bireysel başvuru süresi, Komisyon kararının başvurucuya tebliğinden itibaren 30 gün olup, bu süre hak düşürücü niteliktedir.
 
-#### TAZMİNAT ÖDEMESİNİ ALMAK İÇİN NE YAPMAK GEREKİR?
+Makul sürede yargılanma hakkının ihlal edildiğinin tespiti hâlinde, kural olarak manevi tazminata hükmedilmektedir. Tazminat miktarı; yargılamanın süresi, davanın niteliği, tarafların tutumu ve başvurucunun menfaatinin ağırlığı gibi kriterler dikkate alınarak her somut olayın özelliklerine göre belirlenmektedir.
 
-AYM’nin hükmettiği tazminatı almak için kararın tebliğini takiben Hazine ve Maliye Bakanlığına başvurmak gerekir. Bakanlığın ödemeyi başvuru tarihinden itibaren dört ay içinde yapması gerekir. Ödemede gecikme olması hâlinde bu sürenin sona erdiği tarihten ödeme tarihine kadar geçen süre için yasal faiz uygulanır.
+Komisyon veya Anayasa Mahkemesi tarafından hükmedilen tazminatın tahsili için, kararın tebliğini müteakip ilgili idareye başvurulması gerekmekte olup, ödemenin yasal süresi içerisinde yapılmaması hâlinde gecikilen süre bakımından yasal faiz uygulanmaktadır.
+
+Sonuç olarak, makul sürede yargılanma hakkı, adil yargılanma hakkının temel unsurlarından biri olup, bu hakkın ihlali hâlinde tazminat talep edilebilmektedir. Ancak güncel hukuk sisteminde bu talebin doğrudan Anayasa Mahkemesi’ne yöneltilmesi mümkün değildir. Başvurucuların öncelikle Tazminat Komisyonu’na müracaat etmeleri, akabinde gerekli şartların oluşması hâlinde Anayasa Mahkemesi’ne başvurmaları gerekmektedir. Bu usul sırasına riayet edilmemesi, başvurunun esası incelenmeksizin reddedilmesi sonucunu doğurabilecektir.
 
 #### MAKUL SÜREYLE İLGİLİ AVRUPA İNSAN HAKLARI MAHKEMESİ VE ANAYASA MAHKEMESİ KARARLARINDAN ÖRNEKLER
 
