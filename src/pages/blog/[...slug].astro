@@ -90,12 +90,32 @@ const { Content } = await entry.render();
 	}
 
 	.content {
-		max-width: 65ch;
 		margin-inline: auto;
+		max-width: 100%;
+		overflow-x: auto;
 	}
 
 	.content > :global(* + *) {
 		margin-top: 1rem;
+	}
+
+	.content :global(pre) {
+		max-width: 100%;
+		overflow-x: auto;
+		padding: 1rem;
+		border-radius: 0.5rem;
+	}
+
+	.content :global(code) {
+		word-break: break-word;
+		overflow-wrap: break-word;
+	}
+
+	.content :global(table) {
+		display: block;
+		max-width: 100%;
+		overflow-x: auto;
+		border-collapse: collapse;
 	}
 
 	.content :global(h1),
