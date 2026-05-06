@@ -100,7 +100,7 @@ Sayın Ş. Taş,
 
 Ortak Temsilci,
 
-##### Avukat
+Avukat
 
 Danışmanlar;
 
