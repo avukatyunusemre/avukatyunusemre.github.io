@@ -407,6 +407,7 @@ import ContactCTA from "../components/ContactCTA.astro";
     border-radius: 1.5rem;
     background: var(--gradient-subtle);
     box-shadow: var(--shadow-sm);
+    overflow-x: auto;
   }
 
   .calculator-card h2 {
@@ -428,6 +429,8 @@ import ContactCTA from "../components/ContactCTA.astro";
     align-items: center;
     gap: 0.15rem;
     width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
   }
 
   .number-input input {
@@ -438,6 +441,7 @@ import ContactCTA from "../components/ContactCTA.astro";
     color: var(--gray-100);
     font-size: var(--text-md);
     min-width: 0;
+    max-width: 100%;
   }
 
   .number-input input:first-of-type {
